@@ -32,3 +32,15 @@
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshisrivastava395&layout=compact&theme=github_dark&cache_seconds=86400)
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,git,github,html,css,tailwind,vscode" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Divyanshi Srivastava</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=CSE+Student;React+Developer;Open+Source+Contributor;Learning+DSA+Every+Day" />
+</p>
