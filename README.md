@@ -24,8 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshisrivastava395&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshisrivastava395&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=divyanshisrivastava395&theme=tokyonight)](https://git.io/streak-stats)
