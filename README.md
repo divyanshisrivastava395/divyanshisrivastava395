@@ -24,11 +24,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshisrivastava395&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Divyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshisrivastava395&show_icons=true&theme=github_dark&cache_seconds=86400)
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=divyanshisrivastava395&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshisrivastava395&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshisrivastava395&layout=compact&theme=github_dark&cache_seconds=86400)
